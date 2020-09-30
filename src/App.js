@@ -9,9 +9,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Tu parles avec une Anissa mais moi j'm'appelle Wejdene ! 
-          <span role="img">
-          👼🏻
-            </span>
         </p>
       </header>
     </div>
